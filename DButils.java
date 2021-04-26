@@ -1,2 +1,2 @@
 "hello guys"
-git commands are important:
+git commands are important
