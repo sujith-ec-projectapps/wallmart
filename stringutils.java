@@ -1,0 +1,1 @@
+istring related functions
