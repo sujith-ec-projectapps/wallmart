@@ -1,8 +1,5 @@
 .class
 .projects
 /node-module
-.classpath
-.project
-/node_modules
-.gitignores
+
 
