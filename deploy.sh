@@ -1,4 +1,4 @@
- man 
-git changes
+git hello
+changes
 the updated one
 
